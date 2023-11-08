@@ -13,4 +13,6 @@ La gestión del transporte sostenible requiere de una serie de instrumentos diri
 
 
 ## Referencias
--completando-
+1. Dalk, H and Brannigan, C. (2002). Transporte y cambio Climático. Módulo 5e. Transpórte Sostenible: Texto de referencia para formuladores de politicas públicas.
+2. Din, A. U., Ur Rahman, I., Vega-Muñoz, A., Elahi, E., Salazar-Sepúlveda, G., Contreras-Barraza, N., & Alhrahsheh, R. R. (2023). How Sustainable Transportation Can Utilize Climate Change Technologies to Mitigate Climate Change. Sustainability, 15(12), 9710. MDPI AG. Retrieved from http://dx.doi.org/10.3390/su15129710
+3. J. C. López Restrepo y otros, “Escenarios de emisiones hacia 2030: potencial de reducción de la presión ambiental provocada por los autobuses del transporte público en Bogotá, Buenos Aires, Ciudad de México, Santiago y São Paulo”, Documentos de Proyectos (LC/TS.2022/135), Santiago, Comisión Económica para América Latina y el Caribe (CEPAL), 2022.
