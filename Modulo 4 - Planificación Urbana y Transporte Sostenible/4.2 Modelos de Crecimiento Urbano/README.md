@@ -12,4 +12,7 @@ A continuación, encontrará los recursos esenciales para enriquecer su aprendiz
 La forma en que una ciudad crece y se desarrolla según los modelos de crecimiento urbano puede tener un impacto significativo en la movilidad de sus habitantes y en la sostenibilidad de su sistema de transporte. Un crecimiento planificado de manera sostenible puede reducir la congestión del tráfico, promover la movilidad sostenible y mejorar la calidad de vida de los residentes. 
 
 ## Referencias
--completando-
+1. Cong, C., Kwak, Y., & Deal, B. (2022). Incorporating active transportation modes in large scale urban modeling to inform sustainable urban development. Computers, Environment and Urban Systems, 91, 101726.
+2. M. Moscoso, T. van Laake, L. Quiñones, C. Pardo, D. Hidalgo Eds. (2019). Transporte urbano sostenible en América Latina: evaluaciones y recomendaciones para políticas de movilidad. Despacio: Bogotá, Colombia.
+3. Williams, K. (Ed.). (2017). Spatial planning, urban form and sustainable transport. Routledge.
+4. Rode, P. (2018). Compact urban growth and sustainable transport: How to Connect Planning, Design and Transport. In Governing Compact Cities (pp. 13-59). Edward Elgar Publishing.
