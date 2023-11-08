@@ -13,4 +13,6 @@ A continuación, encontrará los recursos esenciales para enriquecer su aprendiz
 El transporte sostenible a nivel urbano es de vital importancia por diversas razones, ya que tienen un impacto significativo en la calidad de vida de los residentes, la salud pública, el medioambiente y la economía, la contaminación del aire , la dependencia del petróleo y la falta de acceso equitativo a la movilidad.
 
 ## Referencias
--completando-
+1. Kraus, L., & Proff, H. (2021). Sustainable urban transportation criteria and measurement—a systematic literature review. Sustainability, 13(13), 7113.
+2. Loo, B. P., & Chow, S. Y. (2006). Sustainable urban transportation: Concepts, policies, and methodologies. Journal of urban planning and development, 132(2), 76-79.
+3. Kennedy, C., Miller, E., Shalaby, A., Maclean, H., & Coleman, J. (2005). The four pillars of sustainable urban transportation. Transport Reviews, 25(4), 393-414.
