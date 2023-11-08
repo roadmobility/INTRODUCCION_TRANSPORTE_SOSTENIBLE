@@ -13,4 +13,6 @@ A continuación, encontrará los recursos esenciales para enriquecer su aprendiz
 Los objetivos del transporte sostenible son metas y directrices que buscan promover prácticas de movilidad que sean respetuosas con el medioambiente, socialmente equitativas y económicamente viables a largo plazo.
 
 ## Referencias
--completando-
+1. Naciones Unidas. Departamento de Asuntos Económicos y Sociales. Desarrollo Sostenible. https://sdgs.un.org/es/topics/sustainable-transport
+2. Lorena García Alonso y Ricardo J. Sánchez. Objetivos de Desarrollo  del Milenio y su relación  con el transporte. Boletín Fal. Edición Nº 308, número 4 de 2012.
+3. Note, G. (2020). Sustainable development goals.
