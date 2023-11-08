@@ -16,4 +16,5 @@ La relación entre la movilidad urbana y las interacciones territoriales es esen
 
 
 ## Referencias
--completando-
+1. Surya, B., Ahmad, D. N. A., Sakti, H. H., & Sahban, H. (2020). Land use change, spatial interaction, and sustainable development in the metropolitan urban areas, South Sulawesi Province, Indonesia. Land, 9(3), 95.
+2. Gómez Narvaez, A y Zarate Barraza, V. (2019). Multimodalidad y sostenibilidad en el transporte urbano metropolitano. Corporación Universidad de la Costa.
