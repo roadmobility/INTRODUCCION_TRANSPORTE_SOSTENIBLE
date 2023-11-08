@@ -14,4 +14,6 @@ A continuación, encontrará los recursos esenciales para enriquecer su aprendiz
 El estudio del entorno de la movilidad es una parte crítica de la planificación y gestión de los sistemas de transporte y movilidad en entornos urbanos. El objetivo es comprender como los elementos del entorno, desde la infraestructura hasta el diseño urbano, influyen en la movilidad y como se pueden mejorar para lograr sistemas de transporte más eficientes, seguros, sostenibles y accesibles.
 
 ## Referencias
--completando-
+1. Cervero, R. (2013). Transport infrastructure and the environment: Sustainable mobility and urbanism. Urban development for the 21st century: Managing resources and creating infrastructure, 155-182.
+2. Petersen, R. (2006). Planificación del uso del suelo y transporte urbano. Módulo 2a. Transporte Sostenible: Texto de Referencia para formuladores de Políticas Públicas en Ciudades en Desarrollo.
+3. Peñalosa, E. (2002). El papel del transporte en una politica de desarrollo urbano. Módulo 1a.
