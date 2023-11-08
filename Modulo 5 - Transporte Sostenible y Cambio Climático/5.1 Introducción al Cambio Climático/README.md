@@ -12,4 +12,6 @@ A continuación, encontrará los recursos esenciales para enriquecer su aprendiz
 La introducción del cambio climático en el contexto del transporte sostenible es esencial para abordar el desafío del cambio climático y para crear sistemas de transporte más respetuosos con el medioambiente. Esto no sólo beneficia al planeta, sino que tienen impactos positivos en la salud, la economía y la calidad de vida de las personas.
 
 ## Referencias
--completando-
+1. Arango, F et al. (2013). Estrategias de mitigación y métodos para la estimación de las emisiones de gases de efecto invernadero en el transporte. Banco Interamericano de desarrollo BID.
+2. World Health Organization. Health co-benefi ts of climate change mitigation – Transport sector.
+3. Chapman, L. (2007). Transport and climate change: a review. Journal of transport geography, 15(5), 354-367.
