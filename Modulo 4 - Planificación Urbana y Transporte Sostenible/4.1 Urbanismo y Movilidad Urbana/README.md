@@ -12,4 +12,7 @@ A continuación, encontrará los recursos esenciales para enriquecer su aprendiz
 La relación entre urbanismo y la movilidad urbana es crucial para crear ciudades más sostenibles, eficientes, y habitables. Un urbanismo bien planificado puede fomentar la movilidad sostenible, reducir la congestión del tráfico, mejorar la calidad de vida de los residentes y contribuir a la protección del medioambiente.
 
 ## Referencias
--completando-
+1. Cervero, R. (2005). Accessible cities and regions: A framework for sustainable transport and urbanism in the 21st century.
+2. Cervero, R. (2014). Infraestructura de transporte y medio ambiente en el Sur Global: movilidad sostenible y urbanismo. Revista de Planificación Regional y Urbana , 25 (3), 174-191.
+3. Schiller, P. L., & Kenworthy, J. (2017). An introduction to sustainable transportation: Policy, planning and implementation. Routledge.
+4. Chen, L., & Felkner, J. (2020). The interaction effects in the relationship between urban form and sustainable transportation. International Review for Spatial Planning and Sustainable Development, 8(2), 4-17.
