@@ -12,4 +12,6 @@ A continuación, encontrará los recursos esenciales para enriquecer su aprendiz
 Los nuevos enfoques de las políticas de transporte son esenciales para abordar los desafíos contemporáneos y crear sistemas de transporte más sostenibles, seguros, eficientes y equitativos. Estos enfoques ayudan a construir ciudades más habitables y resilientes, y contribuyen a la mitigación del cambio climático y al bienestar de la sociedad. 
 
 ## Referencias
--completando-
+1. Schiller, PL y Kenworthy, J. (2017). Una introducción al transporte sostenible: política, planificación e implementación . Rutledge. Chapter 7.
+2. Eliasson, J., & Proost, S. (2015). Is sustainable transport policy sustainable?. Transport policy, 37, 92-100.
+3. Xenias, D. y Whitmarsh, L. (2013). Dimensiones y determinantes de las actitudes de los expertos y del público hacia las políticas y tecnologías de transporte sostenible. Investigación sobre transporte Parte A: Política y práctica , 48 , 75-85.
