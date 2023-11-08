@@ -12,4 +12,6 @@ A continuación, encontrará los recursos esenciales para enriquecer su aprendiz
 Mostrar que las políticas de transporte sostenible en América Latina abordan una amplia gama de desafíos y oportunidades específicos de la región, dirigidos a mejorar la calidad de vida, la sostenibilidad ambiental y la eficiencia en la movilidad urbana. Estas políticas son fundamentales para abordar los problemas de congestión, contaminación y equidad en la movilidad y para promover un desarrollo urbano más sostenible.
 
 ## Referencias
--completando-
+1. Pizarro, Andrés. (2013). Políticas integradas y sostenibles de movilidad: revisión y propuesta de un marco conceptual. Boletín Fal. Edición Nº 323, número 7, 2013
+2. Mercier, J., Carrier, M., Duarte, F., & Tremblay-Racicot, F. (2016). Policy tools for sustainable transport in three cities of the Americas: Seattle, Montreal and Curitiba. Transport Policy, 50, 95-105.
+3. Guzmán, LA y Orjuela, JP (2017). Vincular un modelo dinámico de transporte con un modelo de emisiones para ayudar en las evaluaciones de la contaminación del aire de las políticas de transporte en América Latina. Transportmetrica B: Dinámica del transporte , 5 (3), 265-280.
