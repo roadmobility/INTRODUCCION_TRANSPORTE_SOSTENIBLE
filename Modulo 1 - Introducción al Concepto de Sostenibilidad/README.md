@@ -12,4 +12,5 @@ El alcance de la introducción del concepto de sostenibilidad en el transporte e
 
 
 ## Referencias
--completando-
+1. Greene, D. L., & Wegener, M. (1997). Sustainable transport. Journal of transport geography, 5(3), 177-190.
+2. Gudmundsson, H., Hall, R. P., Marsden, G., & Zietsman, J. (2016). Sustainable transportation. Heidelberg, Ger. Frederiksberg, Denmark, Spreinger-Verlag Samf.
